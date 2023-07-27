@@ -19,5 +19,5 @@ console.log("=======Adding items into the array using Queue pattern");
 console.log(queue);
 console.log("=======Removing items into the array using Queue pattern");
 queue.remove();
-console.log(queue);
+console.log("Queue", queue);
 
